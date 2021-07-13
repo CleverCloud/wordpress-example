@@ -100,7 +100,7 @@ Config::define('DISALLOW_FILE_MODS', true);
 define('S3_UPLOADS_BUCKET', env('CELLAR_ADDON_BUCKET'));
 define('S3_UPLOADS_KEY', env('CELLAR_ADDON_KEY_ID'));
 define('S3_UPLOADS_SECRET', env('CELLAR_ADDON_KEY_SECRET'));
-define('S3_UPLOADS_REGION', 'Cellar');
+define('S3_UPLOADS_REGION', 'us-east-1');
 define('S3_UPLOADS_BUCKET_URL', 'https://' . env('CELLAR_ADDON_BUCKET') . '.' . env('CELLAR_ADDON_HOST'));
 define('S3_UPLOADS_ENDPOINT', 'https://' . env('CELLAR_ADDON_HOST'));
 
