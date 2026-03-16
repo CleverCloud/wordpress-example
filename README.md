@@ -1,3 +1,6 @@
+> **DEPRECATED**: This example is no longer maintained and is kept only for reference purposes.
+> The current version of Bedrock Wordpress deployment on Clever Cloud is https://github.com/CleverCloud/wordpress-bedrock-example
+> 
 # Deploy WordPress on CleverCloud, the immutable way
 
 [Bedrock](https://roots.io/bedrock/) ([GitHub Project](https://github.com/roots/bedrock)) is a modern WordPress stack that allows to maintain your installation clean from any code change during runtime. [CleverCloud](https://www.clever-cloud.com/) is a rock solid IT automation platform. Now you can take advantages of both to have your [WordPress](https://wordpress.org) installed on it. While you can follow basic steps to install BedRock yourself on CleverCloud, here is a nice shortcut that you can just fork and deploy.
